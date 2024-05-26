@@ -1,0 +1,16 @@
+{
+  "name": "snapshot-tester",
+  "version": "1.0.0",
+  "description": "A simple snapshot testing tool",
+  "main": "index.js",
+  "bin": {
+    "snapshot-tester": "./index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
