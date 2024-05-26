@@ -11,6 +11,10 @@
   "scripts": {
     "test": "node index.js"
   },
-  "author": "Your Name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n-shaburoff/snapshot-tester.git"
+  },
+  "author": "Mykyta Shaburov",
   "license": "ISC"
 }
